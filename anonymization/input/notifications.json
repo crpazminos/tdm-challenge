@@ -1,0 +1,52 @@
+[
+  {
+    "notification_id": 1,
+    "customer_id": 1,
+    "channel": "EMAIL",
+    "destination_value": "rosa.benavides@email.com",
+    "message_subject": "Factura emitida",
+    "message_body": "Su factura FAC-001 fue generada",
+    "status": "SENT",
+    "sent_at": "2026-04-01 12:00:00"
+  },
+  {
+    "notification_id": 2,
+    "customer_id": 1,
+    "channel": "WHATSAPP",
+    "destination_value": "0998765432",
+    "message_subject": null,
+    "message_body": "Su factura FAC-001 fue generada",
+    "status": "SENT",
+    "sent_at": "2026-04-01 12:05:00"
+  },
+  {
+    "notification_id": 3,
+    "customer_id": 2,
+    "channel": "SMS",
+    "destination_value": "0987654321",
+    "message_subject": null,
+    "message_body": "Su factura FAC-002 fue generada",
+    "status": "SENT",
+    "sent_at": "2026-04-02 14:00:00"
+  },
+  {
+    "notification_id": 4,
+    "customer_id": 3,
+    "channel": "EMAIL",
+    "destination_value": "paula.solis@email.com",
+    "message_subject": "Promocion",
+    "message_body": "Tiene una promocion disponible",
+    "status": "PENDING",
+    "sent_at": null
+  },
+  {
+    "notification_id": 5,
+    "customer_id": 5,
+    "channel": "WHATSAPP",
+    "destination_value": "0954321098",
+    "message_subject": null,
+    "message_body": "Su pedido esta listo para entrega",
+    "status": "SENT",
+    "sent_at": "2026-04-05 17:30:00"
+  }
+]

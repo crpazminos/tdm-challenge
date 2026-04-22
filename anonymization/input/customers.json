@@ -1,0 +1,62 @@
+[
+  {
+    "customer_id": 1,
+    "customer_code": "CSTMR_001",
+    "full_name": "Rosa Benavides",
+    "document_type": "CEDULA",
+    "document_number": "0912345678",
+    "email": "rosa.benavides@email.com",
+    "phone": "0998765432",
+    "birth_date": "1990-05-10",
+    "city": "Quito",
+    "created_at": "2026-04-20 10:00:00"
+  },
+  {
+    "customer_id": 2,
+    "customer_code": "CSTMR_002",
+    "full_name": "Rebecca Pazmino",
+    "document_type": "CEDULA",
+    "document_number": "0923456789",
+    "email": "rebecca.pazmino@email.com",
+    "phone": "0987654321",
+    "birth_date": "1988-08-15",
+    "city": "Guayaquil",
+    "created_at": "2026-04-20 10:05:00"
+  },
+  {
+    "customer_id": 3,
+    "customer_code": "CSTMR_003",
+    "full_name": "Paula Solis",
+    "document_type": "RUC_NATURAL",
+    "document_number": "1710034065001",
+    "email": "paula.solis@email.com",
+    "phone": "0976543210",
+    "birth_date": "1992-03-21",
+    "city": "Cuenca",
+    "created_at": "2026-04-20 10:10:00"
+  },
+  {
+    "customer_id": 4,
+    "customer_code": "CSTMR_004",
+    "full_name": "Rosa Maji",
+    "document_type": "RUC_NATURAL",
+    "document_number": "0934567890",
+    "email": "rosa.maji@email.com",
+    "phone": "0965432109",
+    "birth_date": "1985-11-02",
+    "city": "Ambato",
+    "created_at": "2026-04-20 10:15:00"
+  },
+  {
+    "customer_id": 5,
+    "customer_code": "CSTMR_005",
+    "full_name": "Carmen Solis",
+    "document_type": "RUC_EMPRESA",
+    "document_number": "0912456789001",
+    "email": "carmen.solis@email.com",
+    "phone": "0954321098",
+    "birth_date": "1995-07-14",
+    "city": "Loja",
+    "created_at": "2026-04-20 10:20:00"
+  }
+]

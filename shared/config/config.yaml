@@ -1,0 +1,32 @@
+database:
+  name: tdm.db
+
+scanner:
+  threshold: 0.9
+  sample_size: 100
+  file_name: scan_report.json
+
+anonymizer:
+  seed: tdm_crps
+  file_name: anonymization_report.json
+  db_name: tdm_anonymizer.db
+
+logs:
+  path_scan:
+  path_inge:
+
+generator:
+  seed: 42
+  records: 500
+  db_name: tdm_synthetic_data.db
+
+inyector:
+  seed: 42
+  error_rate: 0.05
+  sample_size: 100
+  report_name: report_injection.json
+  data_name: data_injection.json
+
+
+
+
