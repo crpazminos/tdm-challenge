@@ -185,7 +185,7 @@ Permite:
 
 ---
 
-# Parte 2: Data Scanning & Anonymization
+# Parte 2: Synthetic Data & Injection
 
 ## Objetivo
 
